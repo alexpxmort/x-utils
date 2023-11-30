@@ -1,7 +1,7 @@
 # x-utils-rx
 
 Biblioteca x-utils-rx para mapeamento e transformação de dados em objetos JavaScript.
-
+NPM - https://www.npmjs.com/package/x-utils-rx
 ## Instalação
 
 Para instalar a biblioteca, utilize o seguinte comando:
