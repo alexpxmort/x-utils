@@ -1,6 +1,6 @@
 # x-utils-rx
 
-Biblioteca x-utils-rx para mapeamento e transformação de dados em objetos JavaScript.
+Biblioteca x-utils-rx para mapeamento e transformação de dados em objetos JavaScript.<br>
 NPM - https://www.npmjs.com/package/x-utils-rx
 ## Instalação
 
