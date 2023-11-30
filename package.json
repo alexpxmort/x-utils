@@ -1,5 +1,5 @@
 {
-  "name": "x-utils",
+  "name": "x-utils-rx",
   "version": "1.0.0",
   "main": "build/src/index.js",
   "types": "build/index.d.ts",
