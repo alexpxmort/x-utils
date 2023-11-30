@@ -3,10 +3,15 @@
   "version": "1.0.0",
   "main": "build/src/index.js",
   "types": "build/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url":"git+https://github.com/alexpxmort/x-utils.git"
+  },
   "author": {
     "name": "Alex Oliveira",
     "email": "lexpdigi@gmail.com"
   },
+  "keywords": ["utils","js","mapper"],
   "license": "MIT",
   "scripts": {
     "test": "mocha -r tsconfig-paths/register --config test/runners/mocha/.mocharc.json",
