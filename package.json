@@ -1,0 +1,24 @@
+{
+  "name": "x-utils",
+  "version": "1.0.0",
+  "main": "build/src/index.js",
+  "types": "build/index.d.ts",
+  "author": {
+    "name": "Alex Oliveira",
+    "email": "lexpdigi@gmail.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha -r tsconfig-paths/register --config test/runners/mocha/.mocharc.json",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8",
+    "tsconfig-paths": "^3.12.0",
+    "typescript": "^4.5.2",
+    "@types/chai": "^4.2.22",
+    "@types/mocha": "^9.0.0",
+    "mocha": "^9.1.3",
+    "chai": "^4.3.4"
+  }
+}
