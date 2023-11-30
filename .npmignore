@@ -4,8 +4,9 @@
 config/
 
 # Arquivos TypeScript
-**/*.ts
-**/*.tsx
+src/**/*.ts
+src/**/*.tsx
 
 # Testes
-test/
+test/**/*.ts
+test/runners

@@ -1,8 +1,8 @@
 {
   "name": "x-utils-rx",
-  "version": "1.0.1",
+  "version": "1.0.10",
   "main": "build/src/index.js",
-  "types": "build/index.d.ts",
+  "types": "build/src/index.d.ts",
   "repository": {
     "type": "git",
     "url":"git+https://github.com/alexpxmort/x-utils.git"
